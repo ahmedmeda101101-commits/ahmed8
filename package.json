@@ -1,0 +1,31 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "artifacts/*",
+    "lib/*",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "npm run build --workspace=@workspace/maquina-accounts",
+    "start": "tsx server.ts",
+    "typecheck": "npm run typecheck --workspace=@workspace/maquina-accounts",
+    "lint": "npm run typecheck"
+  },
+  "dependencies": {
+    "@replit/connectors-sdk": "^0.4.3",
+    "express": "^5.2.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "prettier": "^3.9.6",
+    "tsx": "^4.21.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.2"
+  }
+}

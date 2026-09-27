@@ -1,0 +1,8 @@
+{
+  "name": "ماكينة التطريز — الحسابات والمخزون",
+  "description": "نظام الحسابات والمخزون وإدارة فواتير وورش التطريز",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
