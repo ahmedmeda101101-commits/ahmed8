@@ -8,7 +8,11 @@ const __dirname = path.dirname(__filename);
 
 async function startServer() {
   const app = express();
-  const port = 3000;
+  const port = Number(process.env.PORT ?? "3000");
+
+  if (Number.isNaN(port) || port <= 0) {
+    throw new Error(`Invalid PORT value: "${process.env.PORT}"`);
+  }
 
   // Mount API routes
   app.use(apiApp);
@@ -23,7 +27,10 @@ async function startServer() {
     });
     app.use(vite.middlewares);
   } else {
-    const distPath = path.resolve(__dirname, "artifacts/maquina-accounts/dist/public");
+    const distPath = path.resolve(
+      __dirname,
+      "artifacts/maquina-accounts/dist/public",
+    );
     app.use(express.static(distPath));
     app.get("*", (_req, res) => {
       res.sendFile(path.resolve(distPath, "index.html"));
