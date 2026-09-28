@@ -1,0 +1,290 @@
+[
+  {
+    "date": "2026-04-30",
+    "material_code": "2004",
+    "qty": 2.0,
+    "unit_cost": 400.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-04-30",
+    "material_code": "2009",
+    "qty": 1.0,
+    "unit_cost": 165.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-04-30",
+    "material_code": "2002",
+    "qty": 2.0,
+    "unit_cost": 45.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-04-30",
+    "material_code": "2003",
+    "qty": 3.0,
+    "unit_cost": 41.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-04-30",
+    "material_code": "2007",
+    "qty": 1.0,
+    "unit_cost": 170.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-11",
+    "material_code": "2003",
+    "qty": 16.0,
+    "unit_cost": 41.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2001",
+    "qty": 6.0,
+    "unit_cost": 4.5,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2002",
+    "qty": 2.0,
+    "unit_cost": 60.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2003",
+    "qty": 10.0,
+    "unit_cost": 41.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2004",
+    "qty": 4.0,
+    "unit_cost": 420.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2005",
+    "qty": 3.0,
+    "unit_cost": 70.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2008",
+    "qty": 3.0,
+    "unit_cost": 65.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2009",
+    "qty": 1.0,
+    "unit_cost": 165.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2009",
+    "qty": 1.0,
+    "unit_cost": 170.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2010",
+    "qty": 4.0,
+    "unit_cost": 40.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-05-31",
+    "material_code": "2010",
+    "qty": 14.0,
+    "unit_cost": 35.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2001",
+    "qty": 30.0,
+    "unit_cost": 4.5833,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2001",
+    "qty": 6.0,
+    "unit_cost": 3.40277,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2004",
+    "qty": 2.0,
+    "unit_cost": 420.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2004",
+    "qty": 2.0,
+    "unit_cost": 370.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2005",
+    "qty": 2.0,
+    "unit_cost": 70.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2003",
+    "qty": 33.0,
+    "unit_cost": 41.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2010",
+    "qty": 10.0,
+    "unit_cost": 35.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-06-30",
+    "material_code": "2010",
+    "qty": 3.0,
+    "unit_cost": 40.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2001",
+    "qty": 88.0,
+    "unit_cost": 4.5833,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2004",
+    "qty": 8.0,
+    "unit_cost": 370.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2004",
+    "qty": 2.0,
+    "unit_cost": 361.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2011",
+    "qty": 1.0,
+    "unit_cost": 420.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2003",
+    "qty": 27.0,
+    "unit_cost": 41.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2002",
+    "qty": 1.0,
+    "unit_cost": 60.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2010",
+    "qty": 2.0,
+    "unit_cost": 35.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  },
+  {
+    "date": "2026-07-31",
+    "material_code": "2009",
+    "qty": 1.0,
+    "unit_cost": 165.0,
+    "reference": "Excel حركة المخزن",
+    "notes": "سحب/استهلاك موروث من ملف Excel",
+    "source": "legacy_excel"
+  }
+]

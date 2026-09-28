@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "ماكينة التطريز — الحسابات والمخزون"
+description = "نظام عربي لإدارة حسابات ماكينة التطريز، مع ترحيل التاريخ من ملفات Excel، المبيعات والمشتريات والخزينة والمخزون والأصول والتقارير."
+version = "1.0.0"
+id = "artifacts/maquina-accounts"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22392
+
+[services.development]
+run = "pnpm --filter @workspace/maquina-accounts run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/maquina-accounts", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/maquina-accounts/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22392"
+BASE_PATH = "/"

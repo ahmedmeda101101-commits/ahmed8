@@ -1,0 +1,5144 @@
+{
+  "source_file": "حسابات_ماكينة_التطريز_نسخة_مطورة_بدون_تغيير_الأصل.xlsx",
+  "source_sheet_count": 25,
+  "customers": [
+    {
+      "code": "4001",
+      "name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4002",
+      "name": "ياسر",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4003",
+      "name": "ابو حمزة",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4004",
+      "name": "علي رزة",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4005",
+      "name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4006",
+      "name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4007",
+      "name": "ميدو عزت",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4008",
+      "name": "مبيعات نقدية",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4009",
+      "name": "مصطفي شاهين",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4010",
+      "name": "زهران",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4011",
+      "name": "محمد محسن",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    },
+    {
+      "code": "4012",
+      "name": "اسلام غنيم",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "3001",
+      "name": "مشتريات كاش",
+      "phone": "",
+      "address": "",
+      "opening_balance": 0
+    }
+  ],
+  "products": [
+    {
+      "code": "1000",
+      "name": "تشيرت  - نص كم",
+      "unit": "قطعة",
+      "sale_price": 45.0,
+      "embroidery_code": "3",
+      "embroidery_name": "وش وظهر",
+      "stitch_code": "301",
+      "color": "من ال غرزة الي 25 الف غرزة"
+    },
+    {
+      "code": "2000",
+      "name": "كاب",
+      "unit": "قطعة",
+      "sale_price": 12.0,
+      "embroidery_code": "1",
+      "embroidery_name": "وش",
+      "stitch_code": "102",
+      "color": "من 5 الف غرزة الي 8 الف غرزة"
+    },
+    {
+      "code": "3000",
+      "name": "بنطلون ميلتون",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "4000",
+      "name": "جاكيت شيف",
+      "unit": "قطعة",
+      "sale_price": 28.0,
+      "embroidery_code": "1",
+      "embroidery_name": "وش",
+      "stitch_code": "102",
+      "color": "من 5 الف غرزة الي 8 الف غرزة"
+    },
+    {
+      "code": "5000",
+      "name": "فيست عمال",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "6000",
+      "name": "مريلة",
+      "unit": "قطعة",
+      "sale_price": 20.0,
+      "embroidery_code": "2",
+      "embroidery_name": "ظهر",
+      "stitch_code": "202",
+      "color": "من 12 الف غرزة الي 16 الف غرزة"
+    },
+    {
+      "code": "7000",
+      "name": "يوني فورم - مدارس",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "8000",
+      "name": "يوني فوم - مطاعم",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "9000",
+      "name": "جيب",
+      "unit": "قطعة",
+      "sale_price": 8.0,
+      "embroidery_code": "1",
+      "embroidery_name": "وش",
+      "stitch_code": "103",
+      "color": "من اول غرزة الي 4 الف غرزة"
+    },
+    {
+      "code": "1001",
+      "name": "تشيرت حضانة",
+      "unit": "قطعة",
+      "sale_price": 9.0,
+      "embroidery_code": "1",
+      "embroidery_name": "وش",
+      "stitch_code": "103",
+      "color": "من اول غرزة الي 4 الف غرزة"
+    },
+    {
+      "code": "10000",
+      "name": "فوطة",
+      "unit": "قطعة",
+      "sale_price": 15.0,
+      "embroidery_code": "2",
+      "embroidery_name": "ظهر",
+      "stitch_code": "201",
+      "color": "من اول غرزة الي 12 الف غرزة"
+    },
+    {
+      "code": "الكود",
+      "name": "الصنف",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "1",
+      "name": "وش",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "2",
+      "name": "ظهر",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "3",
+      "name": "وش وظهر",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "4",
+      "name": "وش وظهر وكم",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "5",
+      "name": "تعويض شركة الشحن",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "101",
+      "name": "من اول غرزة الي 5 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "102",
+      "name": "من 5 الف غرزة الي 8 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "201",
+      "name": "من اول غرزة الي 12 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "202",
+      "name": "من 12 الف غرزة الي 16 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "203",
+      "name": "من 16 الف الي 20 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "204",
+      "name": "من 20 الف غرزة فيما فوق",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "301",
+      "name": "من ال غرزة الي 25 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "302",
+      "name": "من 25 الف غرزة الي 30 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "303",
+      "name": "من 30 الف غرزة فيما فوق",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "103",
+      "name": "من اول غرزة الي 4 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "304",
+      "name": "من اول  16 الف غرزة الي 23 الف غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "104",
+      "name": "من اول غرزة الي 4 ونص غرزة",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "305",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "306",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "205",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "105",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "206",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "106",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "107",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "307",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "207",
+      "name": "مخصوص - تجار",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "اجمالي المبيعات",
+      "name": "#REF!",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "تكلفة المبيعات",
+      "name": "#REF!",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "مصروفات ادارية وعمومية",
+      "name": "-2620",
+      "unit": "قطعة",
+      "sale_price": 0
+    },
+    {
+      "code": "صافي الربح",
+      "name": "#REF!",
+      "unit": "قطعة",
+      "sale_price": 0
+    }
+  ],
+  "materials": [
+    {
+      "code": "2001",
+      "name": "ابر",
+      "unit": "عدد",
+      "cost": 4.58333333333333
+    },
+    {
+      "code": "2002",
+      "name": "خيوط مدكوك",
+      "unit": "بكر",
+      "cost": 1200.0
+    },
+    {
+      "code": "2003",
+      "name": "خيوط عادي",
+      "unit": "بكر",
+      "cost": 41.0
+    },
+    {
+      "code": "2004",
+      "name": "توب فزلين",
+      "unit": "عدد",
+      "cost": 420.0
+    },
+    {
+      "code": "2005",
+      "name": "المتكوك",
+      "unit": "عدد",
+      "cost": 70.0
+    },
+    {
+      "code": "2006",
+      "name": "كورشي",
+      "unit": "عدد",
+      "cost": 0
+    },
+    {
+      "code": "2007",
+      "name": "زيت ماكينة",
+      "unit": "عدد",
+      "cost": 170.0
+    },
+    {
+      "code": "2008",
+      "name": "شنط",
+      "unit": "كيلوا",
+      "cost": 65.0
+    },
+    {
+      "code": "2009",
+      "name": "اكياس",
+      "unit": "كيلوا",
+      "cost": 170.0
+    },
+    {
+      "code": "2010",
+      "name": "فلد",
+      "unit": "المتر",
+      "cost": 40.0
+    },
+    {
+      "code": "2011",
+      "name": "توب فزلين تقيل",
+      "unit": "عدد",
+      "cost": 420.0
+    }
+  ],
+  "expenses": [
+    {
+      "code": "8000",
+      "name": "مصروفات ادارية وعموية"
+    },
+    {
+      "code": "8001",
+      "name": "ايجار المصنع"
+    },
+    {
+      "code": "8002",
+      "name": "مصروفات النظافة"
+    },
+    {
+      "code": "8003",
+      "name": "مرافق وخدمات"
+    },
+    {
+      "code": "8004",
+      "name": "التامين"
+    },
+    {
+      "code": "8005",
+      "name": "اجور ومرتبات الادارة"
+    },
+    {
+      "code": "8006",
+      "name": "البوفية والضيافة"
+    },
+    {
+      "code": "8007",
+      "name": "ادوات ماكتبية"
+    },
+    {
+      "code": "8008",
+      "name": "اتصالات وانترنت"
+    },
+    {
+      "code": "8009",
+      "name": "البرامج والاشتراكات"
+    },
+    {
+      "code": "8010",
+      "name": "اتعاب"
+    },
+    {
+      "code": "8011",
+      "name": "مصاريف بنكية"
+    },
+    {
+      "code": "8012",
+      "name": "تجديد التراخيص"
+    },
+    {
+      "code": "8013",
+      "name": "انتقالات"
+    },
+    {
+      "code": "8014",
+      "name": "شحن وتوصيل"
+    },
+    {
+      "code": "8015",
+      "name": "نثريات"
+    },
+    {
+      "code": "8016",
+      "name": "الدعاية والاعلان"
+    },
+    {
+      "code": "8017",
+      "name": "مكافات"
+    },
+    {
+      "code": "9000",
+      "name": "مصاريف الانتاج"
+    },
+    {
+      "code": "9001",
+      "name": "الخامات"
+    },
+    {
+      "code": "9002",
+      "name": "قطع غيار"
+    },
+    {
+      "code": "9003",
+      "name": "كهرباء"
+    },
+    {
+      "code": "9004",
+      "name": "التعبئة والتغليف"
+    },
+    {
+      "code": "9005",
+      "name": "اجور الانتاج"
+    },
+    {
+      "code": "9006",
+      "name": "مصاريف صيانة"
+    },
+    {
+      "code": "7000",
+      "name": "مصاريف راس مالية"
+    },
+    {
+      "code": "7001",
+      "name": "شراء اصول"
+    },
+    {
+      "code": "7002",
+      "name": "مصروفات تاسيس"
+    },
+    {
+      "code": "7003",
+      "name": "مصاريف اهلاك"
+    },
+    {
+      "code": "7004",
+      "name": "تامين لدي الغير"
+    }
+  ],
+  "sales": [
+    {
+      "source_invoice_no": "1",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-04-30",
+      "status": "تم الاستلام",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "102",
+          "color": "من 5 الف غرزة الي 8 الف غرزة",
+          "qty": 22.0,
+          "unit_price": 12.0,
+          "line_total": 264.0
+        },
+        {
+          "product_code": "6000",
+          "product_name": "مريلة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 23.0,
+          "unit_price": 20.0,
+          "line_total": 460.0
+        },
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "102",
+          "color": "من 5 الف غرزة الي 8 الف غرزة",
+          "qty": 21.0,
+          "unit_price": 12.0,
+          "line_total": 252.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 439.0,
+          "unit_price": 30.0,
+          "line_total": 13170.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "303",
+          "color": "من 30 الف غرزة فيما فوق",
+          "qty": 12.0,
+          "unit_price": 45.0,
+          "line_total": 540.0
+        },
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 20.0,
+          "unit_price": 10.0,
+          "line_total": 200.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "1",
+      "customer_code": "4003",
+      "customer_name": "ابو حمزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-04-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 50.0,
+          "unit_price": 8.0,
+          "line_total": 400.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "1",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-04-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "104",
+          "color": "من اول غرزة الي 4 ونص غرزة",
+          "qty": 12.0,
+          "unit_price": 13.0,
+          "line_total": 156.0
+        },
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "304",
+          "color": "من اول  16 الف غرزة الي 23 الف غرزة",
+          "qty": 42.0,
+          "unit_price": 28.0,
+          "line_total": 1176.0
+        },
+        {
+          "product_code": "6000",
+          "product_name": "مريلة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 43.0,
+          "unit_price": 15.0,
+          "line_total": 645.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "7",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-07",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 30.0,
+          "line_total": 360.0
+        },
+        {
+          "product_code": "2000",
+          "product_name": "كاب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "102",
+          "color": "من 5 الف غرزة الي 8 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 12.0,
+          "line_total": 144.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "2",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-02",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 34.0,
+          "unit_price": 15.0,
+          "line_total": 510.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "3",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-03",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 50.0,
+          "unit_price": 30.0,
+          "line_total": 1500.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "4",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-04",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 200.0,
+          "unit_price": 10.0,
+          "line_total": 2000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "5",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-04",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "2000",
+          "product_name": "كاب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 99.0,
+          "unit_price": 8.0,
+          "line_total": 792.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "5",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-04",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "6000",
+          "product_name": "مريلة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 4.0,
+          "unit_price": 20.0,
+          "line_total": 80.0
+        },
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 4.0,
+          "unit_price": 10.0,
+          "line_total": 40.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "6",
+      "customer_code": "4004",
+      "customer_name": "علي رزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-05",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 239.0,
+          "unit_price": 15.0,
+          "line_total": 3585.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "8",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-07",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "305",
+          "color": "مخصوص - تجار",
+          "qty": 55.0,
+          "unit_price": 20.0,
+          "line_total": 1100.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "9",
+      "customer_code": "4004",
+      "customer_name": "علي رزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-09",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 173.0,
+          "unit_price": 15.0,
+          "line_total": 2595.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "10",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-09",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "305",
+          "color": "مخصوص - تجار",
+          "qty": 250.0,
+          "unit_price": 20.0,
+          "line_total": 5000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "11",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "9000",
+          "product_name": "جيب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 123.0,
+          "unit_price": 8.0,
+          "line_total": 984.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "12",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "2000",
+          "product_name": "كاب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 10.0,
+          "line_total": 300.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 10.0,
+          "unit_price": 30.0,
+          "line_total": 300.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "13",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 184.0,
+          "unit_price": 30.0,
+          "line_total": 5520.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 195.0,
+          "unit_price": 25.0,
+          "line_total": 4875.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "102",
+          "color": "من 5 الف غرزة الي 8 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 12.0,
+          "line_total": 144.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "14",
+      "customer_code": "4003",
+      "customer_name": "ابو حمزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 959.0,
+          "unit_price": 10.0,
+          "line_total": 9590.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 102.0,
+          "unit_price": 30.0,
+          "line_total": 3060.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "15",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "205",
+          "color": "مخصوص - تجار",
+          "qty": 163.0,
+          "unit_price": 18.0,
+          "line_total": 2934.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 666.0,
+          "unit_price": 8.0,
+          "line_total": 5328.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 52.0,
+          "unit_price": 8.0,
+          "line_total": 416.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "16",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 30.0,
+          "line_total": 900.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "17",
+      "customer_code": "4007",
+      "customer_name": "ميدو عزت",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 115.0,
+          "unit_price": 15.0,
+          "line_total": 1725.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "102",
+          "color": "من 5 الف غرزة الي 8 الف غرزة",
+          "qty": 236.0,
+          "unit_price": 12.0,
+          "line_total": 2832.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "18",
+      "customer_code": "4004",
+      "customer_name": "علي رزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-05-26",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 107.0,
+          "unit_price": 15.0,
+          "line_total": 1605.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "16",
+      "customer_code": "4009",
+      "customer_name": "مصطفي شاهين",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "302",
+          "color": "من 25 الف غرزة الي 30 الف غرزة",
+          "qty": 260.0,
+          "unit_price": 35.0,
+          "line_total": 9100.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "17",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 1017.0,
+          "unit_price": 8.0,
+          "line_total": 8136.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "205",
+          "color": "مخصوص - تجار",
+          "qty": 52.0,
+          "unit_price": 18.0,
+          "line_total": 936.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "18",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 45.0,
+          "unit_price": 10.0,
+          "line_total": 450.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 25.0,
+          "unit_price": 25.0,
+          "line_total": 625.0
+        },
+        {
+          "product_code": "10000",
+          "product_name": "فوطة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 127.0,
+          "unit_price": 15.0,
+          "line_total": 1905.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 346.0,
+          "unit_price": 10.0,
+          "line_total": 3460.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 115.0,
+          "unit_price": 8.0,
+          "line_total": 920.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "19",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 454.0,
+          "unit_price": 10.0,
+          "line_total": 4540.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 319.0,
+          "unit_price": 25.0,
+          "line_total": 7975.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 196.0,
+          "unit_price": 15.0,
+          "line_total": 2940.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "20",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "105",
+          "color": "مخصوص - تجار",
+          "qty": 745.0,
+          "unit_price": 9.0,
+          "line_total": 6705.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 408.0,
+          "unit_price": 20.0,
+          "line_total": 8160.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "206",
+          "color": "مخصوص - تجار",
+          "qty": 35.0,
+          "unit_price": 22.0,
+          "line_total": 770.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "105",
+          "color": "مخصوص - تجار",
+          "qty": 373.0,
+          "unit_price": 9.0,
+          "line_total": 3357.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "21",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 49.0,
+          "unit_price": 25.0,
+          "line_total": 1225.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 97.0,
+          "unit_price": 10.0,
+          "line_total": 970.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "22",
+      "customer_code": "4003",
+      "customer_name": "ابو حمزة",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 40.0,
+          "unit_price": 10.0,
+          "line_total": 400.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 100.0,
+          "unit_price": 30.0,
+          "line_total": 3000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "23",
+      "customer_code": "4008",
+      "customer_name": "مبيعات نقدية",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 6.0,
+          "unit_price": 30.0,
+          "line_total": 180.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "24",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-06-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 80.0,
+          "unit_price": 10.0,
+          "line_total": 800.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 36.0,
+          "unit_price": 15.0,
+          "line_total": 540.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "25",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 28.0,
+          "unit_price": 10.0,
+          "line_total": 280.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 20.0,
+          "line_total": 240.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 24.0,
+          "unit_price": 25.0,
+          "line_total": 600.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "26",
+      "customer_code": "4010",
+      "customer_name": "زهران",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "4",
+          "embroidery_name": "وش وظهر وكم",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 124.0,
+          "unit_price": 30.0,
+          "line_total": 3720.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 426.0,
+          "unit_price": 25.0,
+          "line_total": 10650.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "27",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 126.0,
+          "unit_price": 8.0,
+          "line_total": 1008.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 225.0,
+          "unit_price": 8.0,
+          "line_total": 1800.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "28",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "2000",
+          "product_name": "كاب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 646.0,
+          "unit_price": 10.0,
+          "line_total": 6460.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "29",
+      "customer_code": "4011",
+      "customer_name": "محمد محسن",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 38.0,
+          "unit_price": 25.0,
+          "line_total": 950.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 15.0,
+          "unit_price": 10.0,
+          "line_total": 150.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "30",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 41.0,
+          "unit_price": 10.0,
+          "line_total": 410.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "31",
+      "customer_code": "4008",
+      "customer_name": "مبيعات نقدية",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-11",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 26.0,
+          "unit_price": 10.0,
+          "line_total": 260.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "32",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 25.0,
+          "line_total": 300.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 32.0,
+          "unit_price": 25.0,
+          "line_total": 800.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 20.0,
+          "unit_price": 25.0,
+          "line_total": 500.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 20.0,
+          "line_total": 600.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 24.0,
+          "unit_price": 10.0,
+          "line_total": 240.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "33",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 145.0,
+          "unit_price": 10.0,
+          "line_total": 1450.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 26.0,
+          "unit_price": 20.0,
+          "line_total": 520.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 178.0,
+          "unit_price": 8.0,
+          "line_total": 1424.0
+        },
+        {
+          "product_code": "10000",
+          "product_name": "فوطة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 82.0,
+          "unit_price": 15.0,
+          "line_total": 1230.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 110.0,
+          "unit_price": 8.0,
+          "line_total": 880.0
+        },
+        {
+          "product_code": "10000",
+          "product_name": "فوطة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 150.0,
+          "unit_price": 15.0,
+          "line_total": 2250.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 64.0,
+          "unit_price": 20.0,
+          "line_total": 1280.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 85.0,
+          "unit_price": 10.0,
+          "line_total": 850.0
+        },
+        {
+          "product_code": "1001",
+          "product_name": "تشيرت حضانة",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 24.0,
+          "unit_price": 8.0,
+          "line_total": 192.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "34",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "4000",
+          "product_name": "جاكيت شيف",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 591.0,
+          "unit_price": 10.0,
+          "line_total": 5910.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "35",
+      "customer_code": "4010",
+      "customer_name": "زهران",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 215.0,
+          "unit_price": 10.0,
+          "line_total": 2150.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "4",
+          "embroidery_name": "وش وظهر وكم",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 107.0,
+          "unit_price": 30.0,
+          "line_total": 3210.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 156.0,
+          "unit_price": 25.0,
+          "line_total": 3900.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 16.0,
+          "unit_price": 15.0,
+          "line_total": 240.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 25.0,
+          "line_total": 750.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "36",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 45.0,
+          "unit_price": 10.0,
+          "line_total": 450.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 25.0,
+          "unit_price": 25.0,
+          "line_total": 625.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 22.0,
+          "unit_price": 15.0,
+          "line_total": 330.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "37",
+      "customer_code": "4009",
+      "customer_name": "مصطفي شاهين",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "302",
+          "color": "من 25 الف غرزة الي 30 الف غرزة",
+          "qty": 23.0,
+          "unit_price": 35.0,
+          "line_total": 805.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "38",
+      "customer_code": "4011",
+      "customer_name": "محمد محسن",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-27",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 10.0,
+          "unit_price": 10.0,
+          "line_total": 100.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "39",
+      "customer_code": "4010",
+      "customer_name": "زهران",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-28",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 14.0,
+          "unit_price": 10.0,
+          "line_total": 140.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 120.0,
+          "unit_price": 25.0,
+          "line_total": 3000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "40",
+      "customer_code": "4009",
+      "customer_name": "مصطفي شاهين",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-28",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "106",
+          "color": "مخصوص - تجار",
+          "qty": 509.0,
+          "unit_price": 6.0,
+          "line_total": 3054.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "41",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-28",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 60.0,
+          "unit_price": 25.0,
+          "line_total": 1500.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "42",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-28",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1001",
+          "product_name": "تشيرت حضانة",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "107",
+          "color": "مخصوص - تجار",
+          "qty": 800.0,
+          "unit_price": 7.0,
+          "line_total": 5600.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "43",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "2000",
+          "product_name": "كاب",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 1200.0,
+          "unit_price": 10.0,
+          "line_total": 12000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "44",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1001",
+          "product_name": "تشيرت حضانة",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "107",
+          "color": "مخصوص - تجار",
+          "qty": 200.0,
+          "unit_price": 7.0,
+          "line_total": 1400.0
+        },
+        {
+          "product_code": "1001",
+          "product_name": "تشيرت حضانة",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "105",
+          "color": "مخصوص - تجار",
+          "qty": 126.0,
+          "unit_price": 9.0,
+          "line_total": 1134.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 40.0,
+          "unit_price": 25.0,
+          "line_total": 1000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "45",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 60.0,
+          "unit_price": 10.0,
+          "line_total": 600.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 28.0,
+          "unit_price": 10.0,
+          "line_total": 280.0
+        },
+        {
+          "product_code": "6000",
+          "product_name": "مريلة",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 60.0,
+          "unit_price": 20.0,
+          "line_total": 1200.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 20.0,
+          "unit_price": 25.0,
+          "line_total": 500.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "46",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-07-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 25.0,
+          "line_total": 750.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "47",
+      "customer_code": "4001",
+      "customer_name": "الحاج علاء فكري",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 207.0,
+          "unit_price": 25.0,
+          "line_total": 5175.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "204",
+          "color": "من 20 الف غرزة فيما فوق",
+          "qty": 72.0,
+          "unit_price": 30.0,
+          "line_total": 2160.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 10.0,
+          "line_total": 120.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "48",
+      "customer_code": "4006",
+      "customer_name": "ابراهيم الليثي",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "103",
+          "color": "من اول غرزة الي 4 الف غرزة",
+          "qty": 1981.0,
+          "unit_price": 8.0,
+          "line_total": 15848.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 66.0,
+          "unit_price": 25.0,
+          "line_total": 1650.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 127.0,
+          "unit_price": 15.0,
+          "line_total": 1905.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 375.0,
+          "unit_price": 10.0,
+          "line_total": 3750.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 14.0,
+          "unit_price": 10.0,
+          "line_total": 140.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "105",
+          "color": "مخصوص - تجار",
+          "qty": 288.0,
+          "unit_price": 9.0,
+          "line_total": 2592.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 200.0,
+          "unit_price": 10.0,
+          "line_total": 2000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "49",
+      "customer_code": "4005",
+      "customer_name": "الحاج محمود منصور",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 63.0,
+          "unit_price": 25.0,
+          "line_total": 1575.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 115.0,
+          "unit_price": 25.0,
+          "line_total": 2875.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 180.0,
+          "unit_price": 10.0,
+          "line_total": 1800.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "50",
+      "customer_code": "4010",
+      "customer_name": "زهران",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 500.0,
+          "unit_price": 25.0,
+          "line_total": 12500.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 18.0,
+          "unit_price": 25.0,
+          "line_total": 450.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 60.0,
+          "unit_price": 25.0,
+          "line_total": 1500.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 22.0,
+          "unit_price": 25.0,
+          "line_total": 550.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 83.0,
+          "unit_price": 25.0,
+          "line_total": 2075.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 66.0,
+          "unit_price": 20.0,
+          "line_total": 1320.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 53.0,
+          "unit_price": 25.0,
+          "line_total": 1325.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 15.0,
+          "unit_price": 10.0,
+          "line_total": 150.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 40.0,
+          "unit_price": 20.0,
+          "line_total": 800.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 20.0,
+          "unit_price": 25.0,
+          "line_total": 500.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "201",
+          "color": "من اول غرزة الي 12 الف غرزة",
+          "qty": 46.0,
+          "unit_price": 15.0,
+          "line_total": 690.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 10.0,
+          "line_total": 120.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 600.0,
+          "unit_price": 10.0,
+          "line_total": 6000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "51",
+      "customer_code": "4012",
+      "customer_name": "اسلام غنيم",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 18.0,
+          "unit_price": 25.0,
+          "line_total": 450.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 25.0,
+          "line_total": 300.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 40.0,
+          "unit_price": 30.0,
+          "line_total": 1200.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "52",
+      "customer_code": "4012",
+      "customer_name": "اسلام غنيم",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "301",
+          "color": "من ال غرزة الي 25 الف غرزة",
+          "qty": 24.0,
+          "unit_price": 30.0,
+          "line_total": 720.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 25.0,
+          "line_total": 300.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "53",
+      "customer_code": "4012",
+      "customer_name": "اسلام غنيم",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "307",
+          "color": "مخصوص - تجار",
+          "qty": 40.0,
+          "unit_price": 40.0,
+          "line_total": 1600.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "3",
+          "embroidery_name": "وش وظهر",
+          "stitch_code": "302",
+          "color": "من 25 الف غرزة الي 30 الف غرزة",
+          "qty": 24.0,
+          "unit_price": 35.0,
+          "line_total": 840.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 16.0,
+          "unit_price": 25.0,
+          "line_total": 400.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "54",
+      "customer_code": "4012",
+      "customer_name": "اسلام غنيم",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "207",
+          "color": "مخصوص - تجار",
+          "qty": 84.0,
+          "unit_price": 27.0,
+          "line_total": 2268.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 30.0,
+          "unit_price": 10.0,
+          "line_total": 300.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 20.0,
+          "line_total": 240.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 10.0,
+          "unit_price": 10.0,
+          "line_total": 100.0
+        },
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "101",
+          "color": "من اول غرزة الي 5 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 10.0,
+          "line_total": 120.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "55",
+      "customer_code": "4008",
+      "customer_name": "مبيعات نقدية",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "202",
+          "color": "من 12 الف غرزة الي 16 الف غرزة",
+          "qty": 143.0,
+          "unit_price": 20.0,
+          "line_total": 2860.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "56",
+      "customer_code": "4009",
+      "customer_name": "مصطفي شاهين",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "1",
+          "embroidery_name": "وش",
+          "stitch_code": "106",
+          "color": "مخصوص - تجار",
+          "qty": 1416.0,
+          "unit_price": 6.0,
+          "line_total": 8496.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "57",
+      "customer_code": "4002",
+      "customer_name": "ياسر",
+      "phone": "",
+      "address": "",
+      "date": "2026-08-30",
+      "status": "جديد",
+      "notes": "",
+      "items": [
+        {
+          "product_code": "1000",
+          "product_name": "تشيرت  - نص كم",
+          "embroidery_code": "2",
+          "embroidery_name": "ظهر",
+          "stitch_code": "203",
+          "color": "من 16 الف الي 20 الف غرزة",
+          "qty": 12.0,
+          "unit_price": 25.0,
+          "line_total": 300.0
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "source_invoice_no": "1",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-04-15",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2002",
+          "material_name": "خيوط مدكوك",
+          "unit": "بكر",
+          "qty": 2.0,
+          "unit_cost": 45.0,
+          "line_total": 90.0
+        },
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 144.0,
+          "unit_cost": 41.0,
+          "line_total": 5904.0
+        },
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 2.0,
+          "unit_cost": 400.0,
+          "line_total": 800.0
+        },
+        {
+          "material_code": "2007",
+          "material_name": "زيت ماكينة",
+          "unit": "",
+          "qty": 1.0,
+          "unit_cost": 170.0,
+          "line_total": 170.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "2",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-04-15",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2008",
+          "material_name": "شنط",
+          "unit": "كيلوا",
+          "qty": 1.0,
+          "unit_cost": 65.0,
+          "line_total": 65.0
+        },
+        {
+          "material_code": "2009",
+          "material_name": "اكياس",
+          "unit": "كيلوا",
+          "qty": 2.0,
+          "unit_cost": 165.0,
+          "line_total": 330.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "3",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-05-01",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 46.0,
+          "unit_cost": 41.0,
+          "line_total": 1886.0
+        },
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 4.0,
+          "unit_cost": 35.0,
+          "line_total": 140.0
+        },
+        {
+          "material_code": "2001",
+          "material_name": "ابر",
+          "unit": "عدد",
+          "qty": 36.0,
+          "unit_cost": 4.58333333333333,
+          "line_total": 165.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "4",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-05-06",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 8.0,
+          "unit_cost": 41.0,
+          "line_total": 328.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "5",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-05-09",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 1.0,
+          "unit_cost": 420.0,
+          "line_total": 420.0
+        },
+        {
+          "material_code": "2002",
+          "material_name": "خيوط مدكوك",
+          "unit": "بكر",
+          "qty": 1.0,
+          "unit_cost": 60.0,
+          "line_total": 60.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "6",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-05-10",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 16.0,
+          "unit_cost": 41.0,
+          "line_total": 656.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "7",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-05-26",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 2.0,
+          "unit_cost": 420.0,
+          "line_total": 840.0
+        },
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 4.0,
+          "unit_cost": 40.0,
+          "line_total": 160.0
+        },
+        {
+          "material_code": "2005",
+          "material_name": "المتكوك",
+          "unit": "",
+          "qty": 5.0,
+          "unit_cost": 70.0,
+          "line_total": 350.0
+        },
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 1.0,
+          "unit_cost": 420.0,
+          "line_total": 420.0
+        },
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 9.0,
+          "unit_cost": 41.0,
+          "line_total": 369.0
+        },
+        {
+          "material_code": "2002",
+          "material_name": "خيوط مدكوك",
+          "unit": "بكر",
+          "qty": 1.0,
+          "unit_cost": 60.0,
+          "line_total": 60.0
+        },
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 8.0,
+          "unit_cost": 41.0,
+          "line_total": 328.0
+        },
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 13.0,
+          "unit_cost": 35.0,
+          "line_total": 455.0
+        },
+        {
+          "material_code": "2008",
+          "material_name": "شنط",
+          "unit": "كيلوا",
+          "qty": 2.0,
+          "unit_cost": 65.0,
+          "line_total": 130.0
+        },
+        {
+          "material_code": "2009",
+          "material_name": "اكياس",
+          "unit": "كيلوا",
+          "qty": 1.0,
+          "unit_cost": 170.0,
+          "line_total": 170.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "8",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 2.0,
+          "unit_cost": 420.0,
+          "line_total": 840.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "9",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2002",
+          "material_name": "خيوط مدكوك",
+          "unit": "بكر",
+          "qty": 1.0,
+          "unit_cost": 65.0,
+          "line_total": 65.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "10",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 43.0,
+          "unit_cost": 41.0,
+          "line_total": 1763.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "11",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 4.0,
+          "unit_cost": 370.0,
+          "line_total": 1480.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "12",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 10.0,
+          "unit_cost": 35.0,
+          "line_total": 350.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "13",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-06-30",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2001",
+          "material_name": "ابر",
+          "unit": "عدد",
+          "qty": 144.0,
+          "unit_cost": 3.40277777777778,
+          "line_total": 490.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "14",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 66.0,
+          "unit_cost": 41.0,
+          "line_total": 2706.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "15",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 2.0,
+          "unit_cost": 361.0,
+          "line_total": 722.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "16",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 2.0,
+          "unit_cost": 35.0,
+          "line_total": 70.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "17",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2009",
+          "material_name": "اكياس",
+          "unit": "كيلوا",
+          "qty": 2.0,
+          "unit_cost": 165.0,
+          "line_total": 330.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "18",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 2.0,
+          "unit_cost": 370.0,
+          "line_total": 740.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "19",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2011",
+          "material_name": "توب فزلين تقيل",
+          "unit": "",
+          "qty": 1.0,
+          "unit_cost": 420.0,
+          "line_total": 420.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "20",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-07-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 4.0,
+          "unit_cost": 370.0,
+          "line_total": 1480.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "21",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2004",
+          "material_name": "توب فزلين",
+          "unit": "",
+          "qty": 15.0,
+          "unit_cost": 370.0,
+          "line_total": 5550.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "22",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2005",
+          "material_name": "المتكوك",
+          "unit": "",
+          "qty": 10.0,
+          "unit_cost": 70.0,
+          "line_total": 700.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "23",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 12.0,
+          "unit_cost": 41.0,
+          "line_total": 492.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "24",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2009",
+          "material_name": "اكياس",
+          "unit": "كيلوا",
+          "qty": 2.0,
+          "unit_cost": 165.0,
+          "line_total": 330.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "25",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 8.0,
+          "unit_cost": 41.0,
+          "line_total": 328.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "26",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2010",
+          "material_name": "فلد",
+          "unit": "المتر",
+          "qty": 3000.0,
+          "unit_cost": 0.666666666666667,
+          "line_total": 2000.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "27",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2002",
+          "material_name": "خيوط مدكوك",
+          "unit": "بكر",
+          "qty": 1.0,
+          "unit_cost": 1200.0,
+          "line_total": 1200.0
+        }
+      ]
+    },
+    {
+      "source_invoice_no": "28",
+      "supplier_code": "3001",
+      "supplier_name": "مشتريات كاش",
+      "phone": "",
+      "date": "2026-08-31",
+      "notes": "",
+      "items": [
+        {
+          "material_code": "2003",
+          "material_name": "خيوط عادي",
+          "unit": "بكر",
+          "qty": 12.0,
+          "unit_cost": 41.0,
+          "line_total": 492.0
+        }
+      ]
+    }
+  ],
+  "cash": [
+    {
+      "date": "2026-04-15",
+      "type": "قبض",
+      "amount": 1014225.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "راس المال الخاص بشراء الاصول"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "قبض",
+      "amount": 30450.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "راس المال الخاص بمصاريف التاسيس"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "قبض",
+      "amount": 7000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7004",
+      "analysis_name": "تامين لدي الغير",
+      "reference": "1",
+      "notes": "راس المال خاص بتامين شهر للمصنع مسترد"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "قبض",
+      "amount": 6964.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "1",
+      "notes": "راس المال خاص بشراء خامات"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 975000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "شراء ماكينة تطريز"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 8800.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "لاب توب "
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 6650.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "شراء 3 مراوح "
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 925.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "بلاور"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 3600.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "شراء 3 ستاند حديد"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1500.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "مكتب"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 6000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "ترابيزات"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 4000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "باب خشب"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7750.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "1",
+      "notes": "لوحة كهرباء"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 2600.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "شراء أدوات مكتبية + مشتريات بوفية + قفل"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "ايجار المكتب شهر 4"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1900.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "مشتريات كهرباء"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 2500.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "عمولة سمسار"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1300.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "مصنعية كهربائي"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7800.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "نقاشة ( مصنعية + خامات )"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 900.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "مصنعية لوحة الكهرباء"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "نظافة المحل"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 250.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "نقل اثاث"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1100.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "اكرمية عربية نقل الماكينة"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "اكرامية تشغيل الماكينة"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1900.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "مصنعية سباكة"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1200.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7002",
+      "analysis_name": "مصروفات تاسيس",
+      "reference": "1",
+      "notes": "مصنعية نجارة"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7004",
+      "analysis_name": "تامين لدي الغير",
+      "reference": "1",
+      "notes": "ايجار شهر تامين"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 90.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "1",
+      "notes": "مدكوك خيط 2 بكرة *45 ج"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 5904.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "1",
+      "notes": "خيط عادي 144 بكرة * 41 ج"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 800.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "1",
+      "notes": "توب فيزلين 2 * 400 ج "
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 170.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "1",
+      "notes": "جركن زيت - للتزيت"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "قبض",
+      "amount": 14886.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "2",
+      "notes": "مبيعات شهر 4"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "قبض",
+      "amount": 1977.0,
+      "main_category_code": "4002",
+      "main_category_name": "ياسر",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "2",
+      "notes": "مبيعات شهر 4"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "قبض",
+      "amount": 400.0,
+      "main_category_code": "4003",
+      "main_category_name": "ابو حمزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "2",
+      "notes": "مبيعات شهر 4"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 230.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "2",
+      "notes": "شراء 2 كيلو اكياس"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 165.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "2",
+      "notes": "شراء 1 كيلو شنط"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 165.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "2",
+      "notes": "شراء 3 دست ابر ب 36 ابرة"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 500.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9006",
+      "analysis_name": "مصاريف صيانة",
+      "reference": "2",
+      "notes": "صيانة الماكينة"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 4200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "2",
+      "notes": "مرتب احمد علاء شهر 4 + مرتب محمد طارق 1000 ج"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "2",
+      "notes": "فاتورة مياة شهر 4"
+    },
+    {
+      "date": "2026-04-30",
+      "type": "صرف",
+      "amount": 100.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "2",
+      "notes": "فاتورة الكهرباء شهر 4"
+    },
+    {
+      "date": "2026-05-01",
+      "type": "صرف",
+      "amount": 1886.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "2",
+      "notes": "شراء 46 بكرة خيط * 41 ج"
+    },
+    {
+      "date": "2026-05-01",
+      "type": "صرف",
+      "amount": 140.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "2",
+      "notes": "شراء 3 م فيلد"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "صرف",
+      "amount": 328.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "3",
+      "notes": "شراء 8 بكر خيط عادي"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8001",
+      "analysis_name": "ايجار المصنع ",
+      "reference": "3",
+      "notes": "ايجار المكتب شهر5"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "قبض",
+      "amount": 3500.0,
+      "main_category_code": "4004",
+      "main_category_name": "علي رزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "4",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "صرف",
+      "amount": 5500.0,
+      "main_category_code": "7000",
+      "main_category_name": "مصاريف راس مالية",
+      "analysis_code": "7001",
+      "analysis_name": "شراء اصول",
+      "reference": "5",
+      "notes": "شراء كاميرات المكتب 3 كاميرات - الهارد"
+    },
+    {
+      "date": "2026-05-09",
+      "type": "صرف",
+      "amount": 420.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "6",
+      "notes": "شراء توب فزلين"
+    },
+    {
+      "date": "2026-05-09",
+      "type": "صرف",
+      "amount": 60.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "6",
+      "notes": "شراء بكرة خيط مدكوك"
+    },
+    {
+      "date": "2026-05-09",
+      "type": "صرف",
+      "amount": 30.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8007",
+      "analysis_name": "ادوات ماكتبية",
+      "reference": "6",
+      "notes": "شراء 2 مقص "
+    },
+    {
+      "date": "2026-05-10",
+      "type": "قبض",
+      "amount": 2100.0,
+      "main_category_code": "4004",
+      "main_category_name": "علي رزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "7",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "صرف",
+      "amount": 656.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "8",
+      "notes": "شراء 16 بكر خيط عادي"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "قبض",
+      "amount": 600.0,
+      "main_category_code": "4004",
+      "main_category_name": "علي رزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "9",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-11",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "10",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 3282.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "11",
+      "notes": "شراء3 توب فزلين + 17 م فيلت +5 مدكوك+ 17 بكرة عادي + 5 المدكوك +1 ك اكياس + 1 ك شنط"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 80.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9004",
+      "analysis_name": "التعبئة والتغليف",
+      "reference": "12",
+      "notes": "بكر لزق"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 250.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8008",
+      "analysis_name": "اتصالات وانترنت",
+      "reference": "12",
+      "notes": "شراء فلاشة"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 500.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9006",
+      "analysis_name": "مصاريف صيانة",
+      "reference": "12",
+      "notes": "صيانة الماكينة"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 250.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9002",
+      "analysis_name": "قطع غيار",
+      "reference": "12",
+      "notes": "قطع غيار - تخص عواميد"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 76.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8015",
+      "analysis_name": "نثريات",
+      "reference": "12",
+      "notes": "نثريات"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "قبض",
+      "amount": 4700.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "13",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "قبض",
+      "amount": 4700.0,
+      "main_category_code": "4007",
+      "main_category_name": "ميدو عزت",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "13",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "13",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "قبض",
+      "amount": 1590.0,
+      "main_category_code": "4004",
+      "main_category_name": "علي رزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "13",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "قبض",
+      "amount": 12000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "13",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 1500.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8017",
+      "analysis_name": "مكافات",
+      "reference": "13",
+      "notes": "عيديات العمال"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 23400.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "14",
+      "notes": "مرتبات العمال"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة مياة شهر 5"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 350.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة الكهرباء شهر 5"
+    },
+    {
+      "date": "2026-05-26",
+      "type": "صرف",
+      "amount": 10000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب محمد علاء الادارة شهر 5"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "قبض",
+      "amount": 13000.0,
+      "main_category_code": "4003",
+      "main_category_name": "ابو حمزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "قبض",
+      "amount": 8000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "قبض",
+      "amount": 6000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4009",
+      "main_category_name": "مصطفي شاهين",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 0.0,
+      "main_category_code": "4007",
+      "main_category_name": "ميدو عزت",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل - لاغي"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 350.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8015",
+      "analysis_name": "نثريات",
+      "reference": "",
+      "notes": "اكل للعمال"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8001",
+      "analysis_name": "ايجار المصنع ",
+      "reference": "",
+      "notes": "ايجار المكتب شهر6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة مياة شهر 6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 809.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة الكهرباء شهر 6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 20.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8015",
+      "analysis_name": "نثريات",
+      "reference": "",
+      "notes": "فروق شراء"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 254.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9004",
+      "analysis_name": "التعبئة والتغليف",
+      "reference": "",
+      "notes": "بكر لزق"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 2600.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "سلفة لميزو"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "قبض",
+      "amount": 180.0,
+      "main_category_code": "4008",
+      "main_category_name": "مبيعات نقدية",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 4988.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "",
+      "notes": "مشتريات خامات شهر 6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 10000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب محمد علاء الادارة شهر 6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 2000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب احمد ايمن  الادارة شهر 6"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "صرف",
+      "amount": 12333.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "مرتبات عمال الانتاج شهر 6"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "قبض",
+      "amount": 1500.0,
+      "main_category_code": "4003",
+      "main_category_name": "ابو حمزة",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-05",
+      "type": "قبض",
+      "amount": 7500.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "قبض",
+      "amount": 5650.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-13",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "قبض",
+      "amount": 2000.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "قبض",
+      "amount": 1150.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "قبض",
+      "amount": 1500.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "قبض",
+      "amount": 1000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "قبض",
+      "amount": 2000.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-11",
+      "type": "قبض",
+      "amount": 260.0,
+      "main_category_code": "4008",
+      "main_category_name": "مبيعات نقدية",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-29",
+      "type": "قبض",
+      "amount": 2000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "قبض",
+      "amount": 3000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "قبض",
+      "amount": 4000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "قبض",
+      "amount": 13260.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 10000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب محمد علاء الادارة شهر 7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 2000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب احمد ايمن  الادارة شهر 7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 25063.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "مرتبات عمال الانتاج شهر 7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 6468.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "",
+      "notes": "مشتريات خامات شهر 7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 30.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8013",
+      "analysis_name": "انتقالات",
+      "reference": "",
+      "notes": "انتقالات لشراء خامات"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 150.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8002",
+      "analysis_name": "مصروفات النظافة",
+      "reference": "",
+      "notes": "نظافة المحل"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8001",
+      "analysis_name": "ايجار المصنع ",
+      "reference": "",
+      "notes": "ايجار المكتب شهر7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة مياة شهر 7"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "صرف",
+      "amount": 900.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة الكهرباء شهر 7"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 6000.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "سلفة لميزو"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 500.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "سلفة لابراهيم"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 400.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "سلفة لاحمد علاء"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 500.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8013",
+      "analysis_name": "انتقالات",
+      "reference": "",
+      "notes": "انتقالات لشراء خامات"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 250.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8007",
+      "analysis_name": "ادوات ماكتبية",
+      "reference": "",
+      "notes": "مشترك كهرباء"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "سباكة "
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 10000.0,
+      "main_category_code": "4001",
+      "main_category_name": "الحاج علاء فكري",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 8838.0,
+      "main_category_code": "4012",
+      "main_category_name": "اسلام غنيم",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 25000.0,
+      "main_category_code": "4010",
+      "main_category_name": "زهران",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 26000.0,
+      "main_category_code": "4006",
+      "main_category_name": "ابراهيم الليثي",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 18000.0,
+      "main_category_code": "4005",
+      "main_category_name": "الحاج محمود منصور",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "قبض",
+      "amount": 2860.0,
+      "main_category_code": "4008",
+      "main_category_name": "مبيعات نقدية",
+      "analysis_code": "6000",
+      "analysis_name": "ايرادات",
+      "reference": "",
+      "notes": "تحت حساب الشغل"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 11092.0,
+      "main_category_code": "3001",
+      "main_category_name": "مشتريات كاش",
+      "analysis_code": "9001",
+      "analysis_name": "الخامات",
+      "reference": "",
+      "notes": "مشتريات خامات شهر 8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 10000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب محمد علاء الادارة شهر 8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 2000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8005",
+      "analysis_name": "اجور ومرتبات الادارة",
+      "reference": "",
+      "notes": "مرتب احمد ايمن  الادارة شهر 8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 14133.0,
+      "main_category_code": "9000",
+      "main_category_name": "مصاريف الانتاج",
+      "analysis_code": "9005",
+      "analysis_name": "اجور الانتاج",
+      "reference": "",
+      "notes": "مرتبات عمال الانتاج شهر 8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 7000.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8001",
+      "analysis_name": "ايجار المصنع ",
+      "reference": "",
+      "notes": "ايجار المكتب شهر8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 200.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة مياة شهر 8"
+    },
+    {
+      "date": "2026-08-31",
+      "type": "صرف",
+      "amount": 900.0,
+      "main_category_code": "8000",
+      "main_category_name": "مصروفات ادارية وعموية",
+      "analysis_code": "8003",
+      "analysis_name": "مرافق وخدمات",
+      "reference": "",
+      "notes": "فاتورة الكهرباء شهر 8"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+openapi: 3.1.0
+info:
+  # Do not change the title, if the title changes, the import paths will be broken
+  title: Api
+  version: 0.1.0
+  description: API specification
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: dashboard
+  - name: masters
+  - name: transactions
+  - name: accounting
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+  /dashboard:
+    get:
+      operationId: getDashboard
+      tags: [dashboard]
+      summary: Dashboard overview
+      responses:
+        "200":
+          description: Dashboard metrics and recent activity
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Dashboard"
+  /customers:
+    get:
+      operationId: listCustomers
+      tags: [masters]
+      summary: List customers
+      responses:
+        "200":
+          description: Customers
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Customer" }
+    post:
+      operationId: createCustomer
+      tags: [masters]
+      summary: Create customer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/CustomerInput" }
+      responses:
+        "201":
+          description: Created customer
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Customer" }
+  /customers/{id}:
+    patch:
+      operationId: updateCustomer
+      tags: [masters]
+      summary: Update customer
+      parameters:
+        - $ref: "#/components/parameters/Id"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/CustomerInput" }
+      responses:
+        "200":
+          description: Updated customer
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Customer" }
+        "404": { $ref: "#/components/responses/NotFound" }
+  /suppliers:
+    get:
+      operationId: listSuppliers
+      tags: [masters]
+      summary: List suppliers
+      responses:
+        "200":
+          description: Suppliers
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Supplier" }
+    post:
+      operationId: createSupplier
+      tags: [masters]
+      summary: Create supplier
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/SupplierInput" }
+      responses:
+        "201":
+          description: Created supplier
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Supplier" }
+  /products:
+    get:
+      operationId: listProducts
+      tags: [masters]
+      summary: List products
+      responses:
+        "200":
+          description: Products
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Product" }
+    post:
+      operationId: createProduct
+      tags: [masters]
+      summary: Create product
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ProductInput" }
+      responses:
+        "201":
+          description: Created product
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Product" }
+  /materials:
+    get:
+      operationId: listMaterials
+      tags: [masters]
+      summary: List materials
+      responses:
+        "200":
+          description: Materials
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Material" }
+    post:
+      operationId: createMaterial
+      tags: [masters]
+      summary: Create material
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/MaterialInput" }
+      responses:
+        "201":
+          description: Created material
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Material" }
+  /sales:
+    get:
+      operationId: listSales
+      tags: [transactions]
+      summary: List sales invoices
+      responses:
+        "200":
+          description: Sales invoices
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Sale" }
+    post:
+      operationId: createSale
+      tags: [transactions]
+      summary: Create sales invoice
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/SaleInput" }
+      responses:
+        "201":
+          description: Created sale
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Sale" }
+  /purchases:
+    get:
+      operationId: listPurchases
+      tags: [transactions]
+      summary: List purchase invoices
+      responses:
+        "200":
+          description: Purchase invoices
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Purchase" }
+    post:
+      operationId: createPurchase
+      tags: [transactions]
+      summary: Create purchase invoice
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/PurchaseInput" }
+      responses:
+        "201":
+          description: Created purchase
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Purchase" }
+  /cash:
+    get:
+      operationId: listCash
+      tags: [transactions]
+      summary: List treasury movements
+      responses:
+        "200":
+          description: Treasury movements
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/CashEntry" }
+    post:
+      operationId: createCashEntry
+      tags: [transactions]
+      summary: Add treasury movement
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/CashEntryInput" }
+      responses:
+        "201":
+          description: Created treasury movement
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/CashEntry" }
+  /inventory:
+    get:
+      operationId: listInventory
+      tags: [accounting]
+      summary: Inventory balances
+      responses:
+        "200":
+          description: Inventory balances
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/InventoryRow" }
+  /partners:
+    get:
+      operationId: listPartners
+      tags: [accounting]
+      summary: Partners and capital balances
+      responses:
+        "200":
+          description: Partners
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Partner" }
+  /assets:
+    get:
+      operationId: listAssets
+      tags: [accounting]
+      summary: Fixed assets and depreciation
+      responses:
+        "200":
+          description: Fixed assets
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Asset" }
+  /journals:
+    get:
+      operationId: listJournals
+      tags: [accounting]
+      summary: Journal entries
+      responses:
+        "200":
+          description: Journal entries
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/JournalEntry" }
+  /reports/reconciliation:
+    get:
+      operationId: getReconciliation
+      tags: [accounting]
+      summary: Reconciliation and data quality checks
+      responses:
+        "200":
+          description: Reconciliation report
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Reconciliation" }
+  /reports/income:
+    get:
+      operationId: getIncomeReport
+      tags: [accounting]
+      summary: Income statement
+      responses:
+        "200":
+          description: Income statement
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/IncomeReport" }
+components:
+  parameters:
+    Id:
+      name: id
+      in: path
+      required: true
+      schema: { type: integer, minimum: 1 }
+  responses:
+    NotFound:
+      description: Record not found
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error: { type: string }
+    MasterBase:
+      type: object
+      required: [id, code, name]
+      properties:
+        id: { type: integer }
+        code: { type: string }
+        name: { type: string }
+        phone: { type: string }
+        address: { type: string }
+        openingBalance: { type: number }
+    Customer:
+      allOf:
+        - $ref: "#/components/schemas/MasterBase"
+    Supplier:
+      allOf:
+        - $ref: "#/components/schemas/MasterBase"
+    Product:
+      allOf:
+        - $ref: "#/components/schemas/MasterBase"
+        - type: object
+          required: [unit, salePrice]
+          properties:
+            unit: { type: string }
+            salePrice: { type: number }
+    Material:
+      allOf:
+        - $ref: "#/components/schemas/MasterBase"
+        - type: object
+          required: [unit, cost]
+          properties:
+            unit: { type: string }
+            cost: { type: number }
+    CustomerInput:
+      type: object
+      required: [code, name]
+      properties:
+        code: { type: string, minLength: 1 }
+        name: { type: string, minLength: 1 }
+        phone: { type: string }
+        address: { type: string }
+        openingBalance: { type: number, default: 0 }
+    SupplierInput:
+      $ref: "#/components/schemas/CustomerInput"
+    ProductInput:
+      type: object
+      required: [code, name, unit, salePrice]
+      properties:
+        code: { type: string, minLength: 1 }
+        name: { type: string, minLength: 1 }
+        unit: { type: string, minLength: 1 }
+        salePrice: { type: number, minimum: 0 }
+    MaterialInput:
+      type: object
+      required: [code, name, unit, cost]
+      properties:
+        code: { type: string, minLength: 1 }
+        name: { type: string, minLength: 1 }
+        unit: { type: string, minLength: 1 }
+        cost: { type: number, minimum: 0 }
+    TransactionItem:
+      type: object
+      required: [code, name, quantity, unitPrice, total]
+      properties:
+        code: { type: string }
+        name: { type: string }
+        quantity: { type: number, exclusiveMinimum: 0 }
+        unitPrice: { type: number, minimum: 0 }
+        total: { type: number, minimum: 0 }
+    Sale:
+      type: object
+      required: [id, invoiceNo, date, customerName, total, paymentMethod, items]
+      properties:
+        id: { type: integer }
+        invoiceNo: { type: string }
+        date: { type: string, format: date }
+        customerName: { type: string }
+        total: { type: number }
+        paymentMethod: { type: string }
+        status: { type: string }
+        items:
+          type: array
+          items: { $ref: "#/components/schemas/TransactionItem" }
+    SaleInput:
+      type: object
+      required: [invoiceNo, date, customerName, total, paymentMethod, items]
+      properties:
+        invoiceNo: { type: string }
+        date: { type: string, format: date }
+        customerName: { type: string }
+        total: { type: number, minimum: 0 }
+        paymentMethod: { type: string }
+        items:
+          type: array
+          minItems: 1
+          items: { $ref: "#/components/schemas/TransactionItem" }
+    Purchase:
+      type: object
+      required: [id, invoiceNo, date, supplierName, total, paymentMethod, items]
+      properties:
+        id: { type: integer }
+        invoiceNo: { type: string }
+        date: { type: string, format: date }
+        supplierName: { type: string }
+        total: { type: number }
+        paymentMethod: { type: string }
+        status: { type: string }
+        items:
+          type: array
+          items: { $ref: "#/components/schemas/TransactionItem" }
+    PurchaseInput:
+      type: object
+      required: [invoiceNo, date, supplierName, total, paymentMethod, items]
+      properties:
+        invoiceNo: { type: string }
+        date: { type: string, format: date }
+        supplierName: { type: string }
+        total: { type: number, minimum: 0 }
+        paymentMethod: { type: string }
+        items:
+          type: array
+          minItems: 1
+          items: { $ref: "#/components/schemas/TransactionItem" }
+    CashEntry:
+      type: object
+      required: [id, date, type, amount, description, balance]
+      properties:
+        id: { type: integer }
+        date: { type: string, format: date }
+        type: { type: string, enum: [قبض, صرف] }
+        amount: { type: number }
+        description: { type: string }
+        category: { type: string }
+        partyType: { type: string }
+        partyName: { type: string }
+        analysis: { type: string }
+        loading: { type: string }
+        notes: { type: string }
+        voucherNo: { type: string }
+        accountCode: { type: string }
+        accountName: { type: string }
+        beneficiary: { type: string }
+        analysisCode: { type: string }
+        analysisName: { type: string }
+        sourceType: { type: string }
+        sourceId: { type: integer }
+        sourceNo: { type: string }
+        balance: { type: number }
+    CashEntryInput:
+      type: object
+      required: [date, type, amount, description]
+      properties:
+        date: { type: string, format: date }
+        type: { type: string, enum: [قبض, صرف] }
+        amount: { type: number, exclusiveMinimum: 0 }
+        description: { type: string, minLength: 1 }
+        category: { type: string }
+        partyType: { type: string }
+        partyName: { type: string }
+        analysis: { type: string }
+        loading: { type: string }
+        notes: { type: string }
+        voucherNo: { type: string }
+        accountCode: { type: string }
+        accountName: { type: string }
+        beneficiary: { type: string }
+        analysisCode: { type: string }
+        analysisName: { type: string }
+    InventoryRow:
+      type: object
+      required: [code, name, unit, purchasedQty, consumedQty, balanceQty, balanceValue]
+      properties:
+        code: { type: string }
+        name: { type: string }
+        unit: { type: string }
+        purchasedQty: { type: number }
+        consumedQty: { type: number }
+        balanceQty: { type: number }
+        balanceValue: { type: number }
+        averageCost: { type: number }
+    Partner:
+      type: object
+      required: [id, name, totalShare, paid, remaining, profitShare]
+      properties:
+        id: { type: integer }
+        name: { type: string }
+        totalShare: { type: number }
+        paid: { type: number }
+        remaining: { type: number }
+        profitShare: { type: number }
+    Asset:
+      type: object
+      required: [id, name, purchaseValue, usefulLifeMonths, monthlyDepreciation, accumulatedDepreciation, bookValue]
+      properties:
+        id: { type: integer }
+        name: { type: string }
+        purchaseValue: { type: number }
+        usefulLifeMonths: { type: integer }
+        monthlyDepreciation: { type: number }
+        accumulatedDepreciation: { type: number }
+        bookValue: { type: number }
+    JournalLine:
+      type: object
+      required: [account, debit, credit]
+      properties:
+        account: { type: string }
+        debit: { type: number }
+        credit: { type: number }
+    JournalEntry:
+      type: object
+      required: [id, date, description, lines]
+      properties:
+        id: { type: integer }
+        date: { type: string, format: date }
+        description: { type: string }
+        source: { type: string }
+        lines:
+          type: array
+          items: { $ref: "#/components/schemas/JournalLine" }
+    Dashboard:
+      type: object
+      required: [salesTotal, purchasesTotal, cashBalance, inventoryValue, customerReceivables, supplierPayables, recentActivity]
+      properties:
+        salesTotal: { type: number }
+        purchasesTotal: { type: number }
+        cashBalance: { type: number }
+        inventoryValue: { type: number }
+        customerReceivables: { type: number }
+        supplierPayables: { type: number }
+        netActivity: { type: number }
+        recentActivity:
+          type: array
+          items:
+            type: object
+            required: [date, label, amount, kind]
+            properties:
+              date: { type: string }
+              label: { type: string }
+              amount: { type: number }
+              kind: { type: string }
+    Reconciliation:
+      type: object
+      required: [checks, overallStatus]
+      properties:
+        overallStatus: { type: string, enum: [سليم, يحتاج مراجعة] }
+        checks:
+          type: array
+          items:
+            type: object
+            required: [label, status, value, note]
+            properties:
+              label: { type: string }
+              status: { type: string, enum: [سليم, تحذير, خطأ] }
+              value: { type: number }
+              note: { type: string }
+    IncomeReport:
+      type: object
+      required: [revenue, directCosts, expenses, depreciation, netIncome]
+      properties:
+        revenue: { type: number }
+        directCosts: { type: number }
+        expenses: { type: number }
+        depreciation: { type: number }
+        netIncome: { type: number }
+

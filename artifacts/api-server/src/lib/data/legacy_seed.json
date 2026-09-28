@@ -1,0 +1,1353 @@
+{
+  "source_file": "مشروع ماكينة التطريز.xlsx",
+  "cash": [
+    {
+      "date": "2026-04-01",
+      "type": "قبض",
+      "amount": 975000.0,
+      "description": "راس مال المشروع ( اصل الماكينة فقط )",
+      "load": "",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-01",
+      "type": "قبض",
+      "amount": 83639.0,
+      "description": "راس المال من مصروفات التاسيس",
+      "load": "",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 975000.0,
+      "description": "شراء ماكينة تطريز",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 8800.0,
+      "description": "لاب توب ",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 6650.0,
+      "description": "شراء 3 مراوح ",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 925.0,
+      "description": "بلاور",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 3600.0,
+      "description": "شراء 3 ستاند حديد",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1500.0,
+      "description": "مكتب",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 6000.0,
+      "description": "ترابيزات",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 4000.0,
+      "description": "باب خشب",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7750.0,
+      "description": "لوحة كهرباء",
+      "load": "شراء اصول",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 2600.0,
+      "description": "شراء أدوات مكتبية + مشتريات بوفية + قفل",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7000.0,
+      "description": "ايجار المكتب شهر 4",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7000.0,
+      "description": "ايجار تامين ",
+      "load": "تامين لدي الغير",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1900.0,
+      "description": "مشتريات كهرباء",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 2500.0,
+      "description": "عمولة سمسار",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1300.0,
+      "description": "مصنعية كهربائي",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 7800.0,
+      "description": "نقاشة ( مصنعية + خامات )",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 900.0,
+      "description": "مصنعية لوحة الكهرباء",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1000.0,
+      "description": "نظافة المحل",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 250.0,
+      "description": "نقل اثاث",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1100.0,
+      "description": "اكرمية عربية نقل الماكينة",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1000.0,
+      "description": "اكرامية تشغيل الماكينة",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1900.0,
+      "description": "مصنعية سباكة",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 1200.0,
+      "description": "مصنعية نجارة",
+      "load": "مصروفات تأسيس",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 90.0,
+      "description": "مدكوك خيط 2 بكرة *45 ج",
+      "load": "خامات",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 5904.0,
+      "description": "خيط عادي 144 بكرة * 41 ج",
+      "load": "خامات",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 800.0,
+      "description": "توب فيزلين 2 * 400 ج ",
+      "load": "خامات",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-15",
+      "type": "صرف",
+      "amount": 170.0,
+      "description": "جركن زيت - للتزيت",
+      "load": "خامات",
+      "analysis": ""
+    },
+    {
+      "date": "2026-04-30",
+      "type": "قبض",
+      "amount": 17263.0,
+      "description": "مبيعات شهر 4",
+      "load": "",
+      "analysis": ""
+    },
+    {
+      "date": "2026-05-01",
+      "type": "صرف",
+      "amount": 4260.0,
+      "description": "مشتريات شهر 4",
+      "load": "",
+      "analysis": ""
+    },
+    {
+      "date": "2026-05-01",
+      "type": "صرف",
+      "amount": 2026.0,
+      "description": "مشتريات بداية 5",
+      "load": "",
+      "analysis": ""
+    }
+  ],
+  "partner_rows": [
+    {
+      "date": "2026-04-01",
+      "partner": "سيفن ام",
+      "item": "نصيب من الماكينة",
+      "debit": 0.0,
+      "credit": 325000.0
+    },
+    {
+      "date": "2026-04-01",
+      "partner": "احمد العبسي",
+      "item": "",
+      "debit": 0.0,
+      "credit": 325000.0
+    },
+    {
+      "date": "2026-04-01",
+      "partner": "محمد علاء",
+      "item": "",
+      "debit": 0.0,
+      "credit": 325000.0
+    },
+    {
+      "date": "2026-04-01",
+      "partner": "سيفن ام",
+      "item": "تم سداد قيمة الماكينة",
+      "debit": 325000.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-01",
+      "partner": "احمد العبسي",
+      "item": "تم سداد قيمة الماكينة",
+      "debit": 325000.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-01",
+      "partner": "محمد علاء",
+      "item": "تم سداد قيمة الماكينة",
+      "debit": 325000.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "سيفن ام",
+      "item": "نصيب الفرد من الأصول الثابتة - الأخرى",
+      "debit": 0.0,
+      "credit": 15408.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "احمد العبسي",
+      "item": "",
+      "debit": 0.0,
+      "credit": 15408.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "محمد علاء",
+      "item": "",
+      "debit": 0.0,
+      "credit": 15408.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "سيفن ام",
+      "item": "نصيب الفرد من مصروفات التاسيس",
+      "debit": 0.0,
+      "credit": 12471.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "احمد العبسي",
+      "item": "",
+      "debit": 0.0,
+      "credit": 12471.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "محمد علاء",
+      "item": "",
+      "debit": 0.0,
+      "credit": 12471.333333333334
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "احمد العبسي",
+      "item": "تم سداد نقدي ",
+      "debit": 17100.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "سيفن ام",
+      "item": "تم سداد نقدي ",
+      "debit": 11400.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "سيفن ام",
+      "item": "شراء طرابيزة",
+      "debit": 6000.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-15",
+      "partner": "محمد علاء",
+      "item": "تم سداد نقدي ",
+      "debit": 27880.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-04-25",
+      "partner": "سيفن ام",
+      "item": "تم سداد نقدي ",
+      "debit": 6480.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-05-05",
+      "partner": "سيفن ام",
+      "item": "تم سداد نقدي ",
+      "debit": 4000.0,
+      "credit": 0.0
+    },
+    {
+      "date": "2026-05-03",
+      "partner": "احمد العبسي",
+      "item": "تم سداد نقدي ",
+      "debit": 10780.0,
+      "credit": 0.0
+    }
+  ],
+  "partners": [
+    {
+      "name": "سيفن ام",
+      "capital_share": 352879.6666666666,
+      "paid": 352880.0,
+      "remaining": 0.33333333337213844
+    },
+    {
+      "name": "احمد العبسي",
+      "capital_share": 352879.6666666666,
+      "paid": 352880.0,
+      "remaining": 0.33333333337213844
+    },
+    {
+      "name": "محمد علاء",
+      "capital_share": 352879.6666666666,
+      "paid": 352880.0,
+      "remaining": 0.33333333337213844
+    }
+  ],
+  "assets": [
+    {
+      "name": "ماكينة التطريز",
+      "purchase_value": 975000.0,
+      "useful_life": "10 سنوات",
+      "monthly_depreciation": 8125.0
+    },
+    {
+      "name": "أجهزة إلكترونية (لابتوب)",
+      "purchase_value": 16375.0,
+      "useful_life": "3 سنوات",
+      "monthly_depreciation": 454.8611111111111
+    },
+    {
+      "name": "أثاث ومفروشات",
+      "purchase_value": 15100.0,
+      "useful_life": "5 سنوات",
+      "monthly_depreciation": 251.66666666666666
+    },
+    {
+      "name": "تجهيزات وديكور",
+      "purchase_value": 37450.0,
+      "useful_life": "5 سنوات",
+      "monthly_depreciation": 624.1666666666666
+    },
+    {
+      "name": "كامير ات",
+      "purchase_value": 5500.0,
+      "useful_life": "سنوات 2",
+      "monthly_depreciation": 229.16666666666666
+    }
+  ],
+  "machine_depreciation": [
+    {
+      "date": "2026-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 7500.0,
+      "book_value": 967500.0
+    },
+    {
+      "date": "2026-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 15000.0,
+      "book_value": 960000.0
+    },
+    {
+      "date": "2026-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 22500.0,
+      "book_value": 952500.0
+    },
+    {
+      "date": "2026-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 30000.0,
+      "book_value": 945000.0
+    },
+    {
+      "date": "2026-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 37500.0,
+      "book_value": 937500.0
+    },
+    {
+      "date": "2026-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 45000.0,
+      "book_value": 930000.0
+    },
+    {
+      "date": "2026-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 52500.0,
+      "book_value": 922500.0
+    },
+    {
+      "date": "2026-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 60000.0,
+      "book_value": 915000.0
+    },
+    {
+      "date": "2026-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 67500.0,
+      "book_value": 907500.0
+    },
+    {
+      "date": "2027-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 75000.0,
+      "book_value": 900000.0
+    },
+    {
+      "date": "2027-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 82500.0,
+      "book_value": 892500.0
+    },
+    {
+      "date": "2027-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 90000.0,
+      "book_value": 885000.0
+    },
+    {
+      "date": "2027-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 97500.0,
+      "book_value": 877500.0
+    },
+    {
+      "date": "2027-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 105000.0,
+      "book_value": 870000.0
+    },
+    {
+      "date": "2027-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 112500.0,
+      "book_value": 862500.0
+    },
+    {
+      "date": "2027-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 120000.0,
+      "book_value": 855000.0
+    },
+    {
+      "date": "2027-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 127500.0,
+      "book_value": 847500.0
+    },
+    {
+      "date": "2027-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 135000.0,
+      "book_value": 840000.0
+    },
+    {
+      "date": "2027-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 142500.0,
+      "book_value": 832500.0
+    },
+    {
+      "date": "2027-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 150000.0,
+      "book_value": 825000.0
+    },
+    {
+      "date": "2027-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 157500.0,
+      "book_value": 817500.0
+    },
+    {
+      "date": "2028-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 165000.0,
+      "book_value": 810000.0
+    },
+    {
+      "date": "2028-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 172500.0,
+      "book_value": 802500.0
+    },
+    {
+      "date": "2028-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 180000.0,
+      "book_value": 795000.0
+    },
+    {
+      "date": "2028-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 187500.0,
+      "book_value": 787500.0
+    },
+    {
+      "date": "2028-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 195000.0,
+      "book_value": 780000.0
+    },
+    {
+      "date": "2028-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 202500.0,
+      "book_value": 772500.0
+    },
+    {
+      "date": "2028-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 210000.0,
+      "book_value": 765000.0
+    },
+    {
+      "date": "2028-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 217500.0,
+      "book_value": 757500.0
+    },
+    {
+      "date": "2028-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 225000.0,
+      "book_value": 750000.0
+    },
+    {
+      "date": "2028-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 232500.0,
+      "book_value": 742500.0
+    },
+    {
+      "date": "2028-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 240000.0,
+      "book_value": 735000.0
+    },
+    {
+      "date": "2028-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 247500.0,
+      "book_value": 727500.0
+    },
+    {
+      "date": "2029-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 255000.0,
+      "book_value": 720000.0
+    },
+    {
+      "date": "2029-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 262500.0,
+      "book_value": 712500.0
+    },
+    {
+      "date": "2029-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 270000.0,
+      "book_value": 705000.0
+    },
+    {
+      "date": "2029-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 277500.0,
+      "book_value": 697500.0
+    },
+    {
+      "date": "2029-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 285000.0,
+      "book_value": 690000.0
+    },
+    {
+      "date": "2029-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 292500.0,
+      "book_value": 682500.0
+    },
+    {
+      "date": "2029-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 300000.0,
+      "book_value": 675000.0
+    },
+    {
+      "date": "2029-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 307500.0,
+      "book_value": 667500.0
+    },
+    {
+      "date": "2029-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 315000.0,
+      "book_value": 660000.0
+    },
+    {
+      "date": "2029-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 322500.0,
+      "book_value": 652500.0
+    },
+    {
+      "date": "2029-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 330000.0,
+      "book_value": 645000.0
+    },
+    {
+      "date": "2029-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 337500.0,
+      "book_value": 637500.0
+    },
+    {
+      "date": "2030-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 345000.0,
+      "book_value": 630000.0
+    },
+    {
+      "date": "2030-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 352500.0,
+      "book_value": 622500.0
+    },
+    {
+      "date": "2030-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 360000.0,
+      "book_value": 615000.0
+    },
+    {
+      "date": "2030-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 367500.0,
+      "book_value": 607500.0
+    },
+    {
+      "date": "2030-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 375000.0,
+      "book_value": 600000.0
+    },
+    {
+      "date": "2030-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 382500.0,
+      "book_value": 592500.0
+    },
+    {
+      "date": "2030-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 390000.0,
+      "book_value": 585000.0
+    },
+    {
+      "date": "2030-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 397500.0,
+      "book_value": 577500.0
+    },
+    {
+      "date": "2030-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 405000.0,
+      "book_value": 570000.0
+    },
+    {
+      "date": "2030-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 412500.0,
+      "book_value": 562500.0
+    },
+    {
+      "date": "2030-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 420000.0,
+      "book_value": 555000.0
+    },
+    {
+      "date": "2030-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 427500.0,
+      "book_value": 547500.0
+    },
+    {
+      "date": "2031-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 435000.0,
+      "book_value": 540000.0
+    },
+    {
+      "date": "2031-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 442500.0,
+      "book_value": 532500.0
+    },
+    {
+      "date": "2031-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 450000.0,
+      "book_value": 525000.0
+    },
+    {
+      "date": "2031-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 457500.0,
+      "book_value": 517500.0
+    },
+    {
+      "date": "2031-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 465000.0,
+      "book_value": 510000.0
+    },
+    {
+      "date": "2031-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 472500.0,
+      "book_value": 502500.0
+    },
+    {
+      "date": "2031-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 480000.0,
+      "book_value": 495000.0
+    },
+    {
+      "date": "2031-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 487500.0,
+      "book_value": 487500.0
+    },
+    {
+      "date": "2031-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 495000.0,
+      "book_value": 480000.0
+    },
+    {
+      "date": "2031-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 502500.0,
+      "book_value": 472500.0
+    },
+    {
+      "date": "2031-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 510000.0,
+      "book_value": 465000.0
+    },
+    {
+      "date": "2031-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 517500.0,
+      "book_value": 457500.0
+    },
+    {
+      "date": "2032-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 525000.0,
+      "book_value": 450000.0
+    },
+    {
+      "date": "2032-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 532500.0,
+      "book_value": 442500.0
+    },
+    {
+      "date": "2032-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 540000.0,
+      "book_value": 435000.0
+    },
+    {
+      "date": "2032-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 547500.0,
+      "book_value": 427500.0
+    },
+    {
+      "date": "2032-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 555000.0,
+      "book_value": 420000.0
+    },
+    {
+      "date": "2032-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 562500.0,
+      "book_value": 412500.0
+    },
+    {
+      "date": "2032-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 570000.0,
+      "book_value": 405000.0
+    },
+    {
+      "date": "2032-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 577500.0,
+      "book_value": 397500.0
+    },
+    {
+      "date": "2032-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 585000.0,
+      "book_value": 390000.0
+    },
+    {
+      "date": "2032-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 592500.0,
+      "book_value": 382500.0
+    },
+    {
+      "date": "2032-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 600000.0,
+      "book_value": 375000.0
+    },
+    {
+      "date": "2032-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 607500.0,
+      "book_value": 367500.0
+    },
+    {
+      "date": "2033-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 615000.0,
+      "book_value": 360000.0
+    },
+    {
+      "date": "2033-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 622500.0,
+      "book_value": 352500.0
+    },
+    {
+      "date": "2033-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 630000.0,
+      "book_value": 345000.0
+    },
+    {
+      "date": "2033-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 637500.0,
+      "book_value": 337500.0
+    },
+    {
+      "date": "2033-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 645000.0,
+      "book_value": 330000.0
+    },
+    {
+      "date": "2033-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 652500.0,
+      "book_value": 322500.0
+    },
+    {
+      "date": "2033-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 660000.0,
+      "book_value": 315000.0
+    },
+    {
+      "date": "2033-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 667500.0,
+      "book_value": 307500.0
+    },
+    {
+      "date": "2033-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 675000.0,
+      "book_value": 300000.0
+    },
+    {
+      "date": "2033-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 682500.0,
+      "book_value": 292500.0
+    },
+    {
+      "date": "2033-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 690000.0,
+      "book_value": 285000.0
+    },
+    {
+      "date": "2033-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 697500.0,
+      "book_value": 277500.0
+    },
+    {
+      "date": "2034-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 705000.0,
+      "book_value": 270000.0
+    },
+    {
+      "date": "2034-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 712500.0,
+      "book_value": 262500.0
+    },
+    {
+      "date": "2034-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 720000.0,
+      "book_value": 255000.0
+    },
+    {
+      "date": "2034-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 727500.0,
+      "book_value": 247500.0
+    },
+    {
+      "date": "2034-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 735000.0,
+      "book_value": 240000.0
+    },
+    {
+      "date": "2034-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 742500.0,
+      "book_value": 232500.0
+    },
+    {
+      "date": "2034-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 750000.0,
+      "book_value": 225000.0
+    },
+    {
+      "date": "2034-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 757500.0,
+      "book_value": 217500.0
+    },
+    {
+      "date": "2034-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 765000.0,
+      "book_value": 210000.0
+    },
+    {
+      "date": "2034-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 772500.0,
+      "book_value": 202500.0
+    },
+    {
+      "date": "2034-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 780000.0,
+      "book_value": 195000.0
+    },
+    {
+      "date": "2034-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 787500.0,
+      "book_value": 187500.0
+    },
+    {
+      "date": "2035-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 795000.0,
+      "book_value": 180000.0
+    },
+    {
+      "date": "2035-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 802500.0,
+      "book_value": 172500.0
+    },
+    {
+      "date": "2035-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 810000.0,
+      "book_value": 165000.0
+    },
+    {
+      "date": "2035-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 817500.0,
+      "book_value": 157500.0
+    },
+    {
+      "date": "2035-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 825000.0,
+      "book_value": 150000.0
+    },
+    {
+      "date": "2035-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 832500.0,
+      "book_value": 142500.0
+    },
+    {
+      "date": "2035-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 840000.0,
+      "book_value": 135000.0
+    },
+    {
+      "date": "2035-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 847500.0,
+      "book_value": 127500.0
+    },
+    {
+      "date": "2035-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 855000.0,
+      "book_value": 120000.0
+    },
+    {
+      "date": "2035-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 862500.0,
+      "book_value": 112500.0
+    },
+    {
+      "date": "2035-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 870000.0,
+      "book_value": 105000.0
+    },
+    {
+      "date": "2035-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 877500.0,
+      "book_value": 97500.0
+    },
+    {
+      "date": "2036-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 885000.0,
+      "book_value": 90000.0
+    },
+    {
+      "date": "2036-02-01",
+      "depreciation": 7500.0,
+      "accumulated": 892500.0,
+      "book_value": 82500.0
+    },
+    {
+      "date": "2036-03-01",
+      "depreciation": 7500.0,
+      "accumulated": 900000.0,
+      "book_value": 75000.0
+    },
+    {
+      "date": "2036-04-01",
+      "depreciation": 7500.0,
+      "accumulated": 907500.0,
+      "book_value": 67500.0
+    },
+    {
+      "date": "2036-05-01",
+      "depreciation": 7500.0,
+      "accumulated": 915000.0,
+      "book_value": 60000.0
+    },
+    {
+      "date": "2036-06-01",
+      "depreciation": 7500.0,
+      "accumulated": 922500.0,
+      "book_value": 52500.0
+    },
+    {
+      "date": "2036-07-01",
+      "depreciation": 7500.0,
+      "accumulated": 930000.0,
+      "book_value": 45000.0
+    },
+    {
+      "date": "2036-08-01",
+      "depreciation": 7500.0,
+      "accumulated": 937500.0,
+      "book_value": 37500.0
+    },
+    {
+      "date": "2036-09-01",
+      "depreciation": 7500.0,
+      "accumulated": 945000.0,
+      "book_value": 30000.0
+    },
+    {
+      "date": "2036-10-01",
+      "depreciation": 7500.0,
+      "accumulated": 952500.0,
+      "book_value": 22500.0
+    },
+    {
+      "date": "2036-11-01",
+      "depreciation": 7500.0,
+      "accumulated": 960000.0,
+      "book_value": 15000.0
+    },
+    {
+      "date": "2036-12-01",
+      "depreciation": 7500.0,
+      "accumulated": 967500.0,
+      "book_value": 7500.0
+    },
+    {
+      "date": "2037-01-01",
+      "depreciation": 7500.0,
+      "accumulated": 975000.0,
+      "book_value": 0.0
+    }
+  ],
+  "income": {
+    "4": 90064,
+    "7": 8385.083333333332,
+    "11": 21165,
+    "12": 21033,
+    "13": 42198,
+    "14": 39480.91666666667,
+    "25": 0,
+    "26": 39480.91666666667
+  },
+  "cashflow": {
+    "4": 16008,
+    "5": -6964,
+    "6": -9600,
+    "7": -556,
+    "8": null,
+    "9": -975000,
+    "10": -39225,
+    "11": -7000,
+    "12": -30450,
+    "13": -1051675,
+    "14": null,
+    "15": 1058639,
+    "16": 1058639,
+    "17": 6408
+  },
+  "notes": [
+    "المصدر يحتوي على فروق تاريخية بين بعض جداول الشركاء والإهلاك وقائمة الدخل؛ سيتم عرضها كتسوية/ملاحظة بدل تعديلها بصمت."
+  ],
+  "historical_depreciation_total": 42550.625,
+  "historical_depreciation_date": "2026-08-31",
+  "profit_allocations": [
+    {
+      "date": "2026-04-28",
+      "partner": "سيفن ام",
+      "amount": 3638.0,
+      "description": "ارباح شهر 4 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-04-28",
+      "partner": "احمد العبسي",
+      "amount": 3638.0,
+      "description": "ارباح شهر 4 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-04-28",
+      "partner": "محمد علاء",
+      "amount": 3638.0,
+      "description": "ارباح شهر 4 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-05-28",
+      "partner": "سيفن ام",
+      "amount": 3433.3333333333335,
+      "description": "ارباح شهر 5 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-05-28",
+      "partner": "احمد العبسي",
+      "amount": 3433.3333333333335,
+      "description": "ارباح شهر 5 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-05-28",
+      "partner": "محمد علاء",
+      "amount": 3433.3333333333335,
+      "description": "ارباح شهر 5 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-06-28",
+      "partner": "سيفن ام",
+      "amount": 9275.666666666666,
+      "description": "ارباح شهر 6 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-06-28",
+      "partner": "احمد العبسي",
+      "amount": 9275.666666666666,
+      "description": "ارباح شهر 6 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-06-28",
+      "partner": "محمد علاء",
+      "amount": 9275.666666666666,
+      "description": "ارباح شهر 6 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-07-28",
+      "partner": "سيفن ام",
+      "amount": 12774.0,
+      "description": "ارباح شهر 7 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-07-28",
+      "partner": "احمد العبسي",
+      "amount": 12774.0,
+      "description": "ارباح شهر 7 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-07-28",
+      "partner": "محمد علاء",
+      "amount": 12774.0,
+      "description": "ارباح شهر 7 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-08-28",
+      "partner": "سيفن ام",
+      "amount": 13160.333333333334,
+      "description": "ارباح شهر 8 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-08-28",
+      "partner": "احمد العبسي",
+      "amount": 13160.333333333334,
+      "description": "ارباح شهر 8 — قسم الإجماليات"
+    },
+    {
+      "date": "2026-08-28",
+      "partner": "محمد علاء",
+      "amount": 13160.333333333334,
+      "description": "ارباح شهر 8 — قسم الإجماليات"
+    }
+  ]
+}

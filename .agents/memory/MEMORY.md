@@ -1,0 +1,2 @@
+- [OpenAPI date fields](openapi-date-types.md) — Orval emits `format: date` as Date in TypeScript types, so persisted JSON dates need hydration before typed API responses.
+- [Arabic report exports](report-export-strategy.md) — Keep Arabic report output browser-compatible: UTF-8 Excel-readable tables plus native print/Save as PDF.
